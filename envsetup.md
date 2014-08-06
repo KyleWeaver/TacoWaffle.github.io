@@ -49,8 +49,7 @@ You must have successfully installed the required software and have a Stash acco
 	* context.xml
 	* server.xml
 	* hazelcast.xml
-		
-<br/>
+
 2. Paste them into the conf folder of your local instance of Tomcat.
 	
 3. Open context.xml and set the value of the "rootDomain" parameter to "[yourFirstName].dev" and the "pathToImageMagick" parameter to the path to your local installation of ImageMagick. ex.
