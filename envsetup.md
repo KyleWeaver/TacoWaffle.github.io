@@ -56,7 +56,6 @@ You must have successfully installed the required software and have a Stash acco
 
 	* \<Parameter name="rootDomain" value="russ.dev" override="true"/>
 	* \<Parameter name="pathToImageMagick" value="C:\Program Files\ImageMagick-6.8.3-Q16" override="true"/>
-			
 4. Copy the following jars from S:\Projects\PrivIT\Development Resources\Tomcat.
 	* mail-1.4.5.jar
 	* mysql-connector-java-5.1.29.jar	
